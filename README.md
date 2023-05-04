@@ -1,0 +1,1 @@
+# arabic_handwritten_dataset
