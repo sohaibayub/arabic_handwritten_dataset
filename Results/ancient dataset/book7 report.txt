@@ -1,0 +1,70 @@
+UNLV-ISRI OCR Accuracy Report Version 5.1
+-----------------------------------------
+     114   Characters
+      48   Errors
+   57.89%  Accuracy
+
+       0   Reject Characters
+       0   Suspect Markers
+       0   False Marks
+    0.00%  Characters Marked
+   57.89%  Accuracy After Correction
+
+     Ins    Subst      Del   Errors
+       0        0        0        0   Marked
+      24       24        0       48   Unmarked
+      24       24        0       48   Total
+
+   Count   Missed   %Right
+      12        5    58.33   ASCII Spacing Characters
+      26       14    46.15   Latin1 Control Codes
+      25       12    52.00   Latin1 Special Symbols
+      51       17    66.67   Latin1 Uppercase Letters
+     114       48    57.89   Total
+
+  Errors   Marked   Correct-Generated
+       7        0   {­Ù<85>Ù<91>Ø¯}-{¹}
+       4        0   {§Ø}-{}
+       4        0   {Ù<8A>Ù<82>}-{Ø¨Øª}
+       4        0   {Ù<8A>Ù<86>}-{Øª}
+       3        0   { Ø§}-{Ø· }
+       3        0   { Ù<85>}-{}
+       3        0   { Ù<85>}-{Øµ}
+       3        0   { Ù<8A>}-{Ø¨}
+       3        0   {¬Ù<86>}-{­}
+       2        0   {<86> }-{<87>}
+       2        0   {Ø¹}-{}
+       2        0   {Ù<82>}-{Øª}
+       2        0   {Ù<8A>}-{}
+       1        0   {<89>}-{<82>}
+       1        0   {§}-{£}
+       1        0   {ª}-{¯}
+       1        0   {«}-{¦}
+       1        0   {¯}-{±}
+       1        0   {±}-{¥}
+
+   Count   Missed   %Right
+       2        0   100.00   {<\n>}
+      10        5    50.00   { }
+       1        0   100.00   {<81>}
+       3        2    33.33   {<82>}
+       3        0   100.00   {<84>}
+       4        3    25.00   {<85>}
+       4        3    25.00   {<86>}
+       1        0   100.00   {<87>}
+       3        0   100.00   {<88>}
+       1        1     0.00   {<89>}
+       5        4    20.00   {<8A>}
+       1        1     0.00   {<91>}
+       7        4    42.86   {§}
+       3        0   100.00   {¨}
+       2        1    50.00   {ª}
+       1        1     0.00   {«}
+       1        1     0.00   {¬}
+       2        1    50.00   {­}
+       4        2    50.00   {¯}
+       2        1    50.00   {±}
+       1        0   100.00   {³}
+       2        1    50.00   {¹}
+      25        5    80.00   {Ø}
+      26       12    53.85   {Ù}
